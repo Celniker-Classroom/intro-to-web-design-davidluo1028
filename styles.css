@@ -27,6 +27,26 @@ h1, h2, h3 {
   text-align: center;
 }
 
+/* REQUIRED CLASSES (UPDATED TO MATCH RUBRIC) */
+
+/* Highlighted paragraph */
+.highlight {
+  background-color: #a2c7ff; /* soft yellow highlight */
+  border-left: 5px solid #3498db;
+}
+
+/* Bold paragraph */
+.bold {
+  font-weight: bold;
+  border-left: 5px solid #2ecc71;
+}
+
+/* Underlined paragraph */
+.underline {
+  text-decoration: underline;
+  border-left: 5px solid #e67e22;
+}
+
 .sidebar {
   float: right;
   width: 25%;
